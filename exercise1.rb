@@ -1,7 +1,7 @@
 class BankAccount
 
-  attr_accessor: balance
-  attr_accessor: interest_rate
+  attr_accessor :balance
+  attr_accessor :interest_rate
 
   def initialize (balance, interest_rate)
 
